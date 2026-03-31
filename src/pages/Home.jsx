@@ -151,9 +151,9 @@ function Home() {
               <span>TCL</span> <br /> <br />
               <li>HDR & Dolby Support: Many TCL TVs support HDR10, Dolby Vision for dynamic contrast and colors.</li> <br />
               <li>QLED Technology: Uses quantum dot nanocrystals to produce richer, more accurate colors than standard LED TVs</li> <br />
-              <li>HDR & Dolby Support: Many TCL TVs support HDR10, Dolby Vision for dynamic contrast and colors.</li><br />
+              <li>HDR & Dolby Support: Many TCL TVs support HDR10.</li><br />
               <li>Budget & smaller screens (32"): ~₹11k - ₹15k</li> <br />
-              <li>High-end QLED/Mini LED & larger screens: ₹60k + (can go well above ₹1 lakh for flagship variants).</li> <br />
+              <li>larger screens: ₹60k + (can go well above ₹1 lakh for flagship variants).</li> <br />
               <li>Mid-range 43″ - 55″ 4K TVs: ~₹25k - ₹60k</li>
             </h3>
           </div>

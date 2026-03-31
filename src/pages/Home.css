@@ -101,6 +101,7 @@ margin: auto;
 }
 .img2{
     height: 350px;
+    width: 400px;
     margin-top: 40px;
     margin-bottom: 30px;
     margin-left: 20px;
@@ -211,8 +212,8 @@ margin: auto;
     margin-left: 30px;
 }
 .img6{
-    height: 320px;
-    width: 400px;
+    height: 300px;
+    width: 320px;
     margin-top: 50px;
     margin-bottom: 30px;
     margin-left: 20px;
