@@ -1,4 +1,3 @@
-// src/components/CartItem.jsx
 import React from 'react';
 import { useCart } from '../contexts/CartContext';
 function CartItem({ item }) {
